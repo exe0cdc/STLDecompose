@@ -24,11 +24,11 @@ AUTHOR = 'Josh Montague'
 
 # What packages are required for this module to be executed?
 REQUIRED = [
-    'pandas',
-    'numpy',
-    'scipy',
-    'statsmodels',
-    'matplotlib',
+    'pandas>=1.0.5',
+    'numpy>=1.19.0',
+    'scipy>=1.5.1',
+    'statsmodels>=0.11.1',
+    'matplotlib>=3.2.2',
 ]
 
 # The rest you shouldn't have to touch too much :)
